@@ -8,3 +8,5 @@ Line 7
 Line 8
 Line updated 9 at git_1
 Line updated 10 at git_1
+Line updated 9: git_2
+Line updated 10: git_2
