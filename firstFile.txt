@@ -2,9 +2,9 @@ Line updated 1
 Line updated 2
 Line 3
 Line 4
-Line 5
-Line 6
+Line 5 updated folder 2
+Line 6 updated folder 2
 Line 7
 Line 8
-Line updated 9
-Line updated 10
+Line 9
+Line 10
